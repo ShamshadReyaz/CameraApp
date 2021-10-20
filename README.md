@@ -11,7 +11,7 @@ I have also shown how to perform onActivityResult which is deprecated by using r
 
 Video
 
-https://github.com/ShamshadReyaz/CameraApp/blob/main/assesment_video.mp4
+https://user-images.githubusercontent.com/7029491/138131874-713529c2-e301-43b4-bab3-0fbed49a81b8.mp4
 
 APK
 
