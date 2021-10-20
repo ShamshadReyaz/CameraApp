@@ -7,6 +7,8 @@ I have also used yalantis.ucrop library to perform some editing on clicked pictu
 
 I have also shown how to perform onActivityResult which is deprecated by using registerForActivityResult.
 
+https://github.com/ShamshadReyaz/CameraApp/blob/main/app/src/main/res/drawable/imageplaceholder.png
+
 Video
 
 https://github.com/ShamshadReyaz/CameraApp/blob/main/assesment_video.mp4
